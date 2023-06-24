@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  Abulaziz Almalki
+  <a href="https://github.com/A-F-F-A"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28C3B1&repeat=false&width=435&lines=Hi,+I'm+Abdulaziz+Almalki" alt="Typing SVG" /></a>
 </p>
 
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=193549&height=300&section=header&text=capsule%20render&fontSize=90" />
