@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:44FF00,100:a82da8&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=44FF00&height=300&section=header&text=capsule%20render&fontSize=90" />
