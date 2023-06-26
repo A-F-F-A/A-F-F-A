@@ -3,7 +3,8 @@
 <div align="center">
   <a href="https://github.com/A-F-F-A"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28C3B1&width=435&height=30&lines=Hi,+I'm+Abdulaziz+F.+F.+Almalki" alt="Typing SVG" />
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=28C3B1&multiline=true&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
+
 blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa
 
 
@@ -21,11 +22,11 @@ blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa 
 <br/>
     
 ### Languages: 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=28C3B1&multiline=true&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/A-F-F-A)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
-![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=f73f3f)
+![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp&logoColor=821FF7)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=1A33F7)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 
@@ -33,7 +34,7 @@ blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa 
 
 
 ### ML & DL: 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=28C3B1&multiline=true&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/A-F-F-A)
 ![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)
@@ -72,14 +73,16 @@ blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa blaa 
   //<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
   //<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>  
 </div>-->
+
+### Tools:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
+
 ### Connect with me:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=28C3B1&multiline=true&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
-<p align="left">
-<a href="https://twitter.com/x9yat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x9yat" height="30" width="40" /></a>
-</p>
-
-
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
+![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin)
+![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter)
+![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=f73f3f)
+![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode)
 
 
