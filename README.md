@@ -6,10 +6,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 
 - 👋 ``Hey``
-- ✨ ``My name is Abdulaziz but you can call me Aziz``
-- 🌱 ``I’m currently learning ML abd DL``
-- ❓ 
-- ⚡ 
+- ✨ ``My name is Abdulaziz and you can call me Aziz``
+- 💻 ``I'm a Computer Science student``
+- 📚 ``I’m currently learning ML abd DL``
+
 
 <br/>
 <br/>
