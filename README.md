@@ -72,9 +72,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
-![.Net](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net)
-![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)
 ![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
