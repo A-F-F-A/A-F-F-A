@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/A-F-F-A"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28C3B1&width=435&height=30&lines=Hi,+I'm+Abdulaziz+F.+F.+Almalki" alt="Typing SVG" />
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=500&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 
 - 👋 ``Hey``
 - ✨ ``My name is Abdulaziz and you can call me Aziz``
@@ -16,7 +16,7 @@
 <br/>
     
 ### Languages: 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>-->
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/A-F-F-A)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=f73f3f)
 ![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp&logoColor=821FF7)
@@ -28,7 +28,6 @@
 
 
 ### ML & DL: 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow)
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=blue)](https://github.com/A-F-F-A)
 ![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=cyan)
@@ -69,7 +68,6 @@
 </div>-->
 
 ### Tools:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
 ![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)
@@ -77,7 +75,6 @@
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 
 ### Connect with me:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 ![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin)
 ![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter)
 ![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=f73f3f)
