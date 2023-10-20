@@ -70,10 +70,9 @@
 ### Tools:
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
-<!--![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)-->
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-
+<!--![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)-->
 ### Connect with me:
 ![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin)
 ![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter)
