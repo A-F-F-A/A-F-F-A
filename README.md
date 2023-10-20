@@ -19,9 +19,10 @@
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=28C3B1&width=990&height=20&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>-->
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/A-F-F-A)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=f73f3f)
-<!--![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp&logoColor=821FF7)-->
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=1A33F7)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+<!--![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp&logoColor=821FF7)-->
+
 <!--![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)-->
 
 
