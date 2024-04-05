@@ -30,7 +30,7 @@
 
 
 
-
+<!--
 
 ### ML & DL: 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=500&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
@@ -39,7 +39,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=cyan)
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)
-<!--![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)
+![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)
 
 ![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)-->
 <!--
