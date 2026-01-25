@@ -11,7 +11,7 @@
 - 🎓 **Education:** Computer Science graduate
 - 🛡️ **Skills:** SOC & DFIR, log analysis, incident response, malware investigation, .NET & Windows internals  
 - 🧠 **Learning & Projects:** Building forensic tools, analyzing malware, practicing threat hunting, exploring cyber threat intelligence  
-- 📚 **Interests:** Cybersecurity research, coding, data analysis, reading, video games, Minecraft, blue whales 🐋  
+- 📚 **Interests:** Cybersecurity research, coding, data analysis, reading, video games.
 
 <br/>
 <br/>
