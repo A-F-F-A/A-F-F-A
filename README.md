@@ -1,4 +1,4 @@
-![image alt](https://github.com/A-F-F-A/A-F-F-A/blob/1e948d43776571ac531842d953b8d53968d83564/Logo.svg)
+![image alt](https://github.com/A-F-F-A/A-F-F-A/blob/aea1079b1c41ee67fc79695162cd956f30488c86/Logo.svg)
 
 
 <div align="center">
