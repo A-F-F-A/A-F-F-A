@@ -8,7 +8,6 @@
 Hey I am Abdulaziz F.F. Almalki, Cybersecurity Specialist with a passion for Threat Intelligence, I love analyzing security data, hunting threats, and learning how attackers operate so I can help defend systems better.
 - ``🎓 Education: Computer Science graduate``
 - ``🛡️ Skills: SOC & DFIR, log analysis, incident response, malware investigation, .NET & Windows internals  ``
-- ``🧠 Learning & Projects: Building forensic tools, analyzing malware, practicing threat hunting, exploring cyber threat intelligence  ``
 - ``📚 Interests: Cybersecurity research, coding, data analysis, reading, video games.``
 
 <br/>
