@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/A-F-F-A/A-F-F-A/blob/0b019713b5cf509df1644f0b74d25b6818a82c65/bitmapgreen.png)
 
 <div align="center">
   <a href="https://github.com/A-F-F-A"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28C3B1&width=435&height=30&lines=Hi,+I'm+Abdulaziz+F.+F.+Almalki" alt="Typing SVG" />
