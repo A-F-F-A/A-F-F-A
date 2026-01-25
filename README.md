@@ -1,7 +1,8 @@
-
-
 <div align="center">
   ![image alt](https://github.com/A-F-F-A/A-F-F-A/blob/c09bf2c71d3d7bc841a049fa69121e8ba6c5f8f3/Logo.png)
+</div>
+<div align="center">
+  
   <a href="https://github.com/A-F-F-A"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28C3B1&width=435&height=30&lines=Hi,+I'm+Abdulaziz+F.+F.+Almalki" alt="Typing SVG" />
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=500&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
