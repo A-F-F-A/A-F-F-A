@@ -59,5 +59,5 @@ Hey! I’m Abdulaziz, a Cybersecurity Specialist focused on Threat Intelligence.
 </p>
 
 
-![image alt](https://github.com/A-F-F-A/A-F-F-A/blob/7829ca35ceab02b3f6d0f7a67e989e6a442b60a9/Logofoot.svg)
+![image alt](https://github.com/A-F-F-A/A-F-F-A/blob/11a55d3f4fd529ee3078d10aa4caf11c5c3ed468/Logofoot.svg)
 
