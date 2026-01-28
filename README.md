@@ -16,8 +16,6 @@ Hey!👋, I am Abdulaziz, Cybersecurity Specialist with a passion for Threat Int
 - ``🛡️ Skills: log analysis, incident response, malware investigation, python coding  ``
 - ``📚 Interests: Cybersecurity research, coding, data analysis, reading, video games.``
 
-<br/>
-
  <!--   
 ### Languages: 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=500&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
