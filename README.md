@@ -8,13 +8,16 @@
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=500&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 
-Hey! I’m Abdulaziz, a Cybersecurity Specialist focused on Threat Intelligence. I enjoy analyzing security data, hunting threats, and understanding how attackers think in order to make the internet and digital world safer.
+## Intro:
 
-<br/>
+Hey! I’m Abdulaziz, a Cybersecurity Specialist focused on Threat Intelligence. I enjoy analyzing security data, hunting threats, and understanding how attackers think in order to make the internet and digital world safer.
+<b/>
+## Info:
 
 - ``🎓 Education: Computer Science graduate``
 - ``🛡️ Skills: log analysis, incident response, malware investigation, python coding  ``
 - ``📚 Interests: Cybersecurity research, coding, data analysis, reading, video games.``
+<b/>
 
  <!--   
 ### Languages: 
