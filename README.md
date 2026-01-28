@@ -11,9 +11,11 @@
 Hey!👋, I am Abdulaziz, Cybersecurity Specialist with a passion for Threat Intelligence, I love analyzing security data, hunting threats, and learning how attackers operate so I can help defend systems better.
 
 <br/>
+
 - ``🎓 Education: Computer Science graduate``
 - ``🛡️ Skills: log analysis, incident response, malware investigation, python coding  ``
 - ``📚 Interests: Cybersecurity research, coding, data analysis, reading, video games.``
+
 <br/>
 
  <!--   
