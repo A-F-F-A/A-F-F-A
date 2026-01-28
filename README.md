@@ -17,7 +17,6 @@ Hey! I’m Abdulaziz, a Cybersecurity Specialist focused on Threat Intelligence.
 - ``🎓 Education: Computer Science graduate``
 - ``🛡️ Skills: log analysis, incident response, malware investigation, python coding  ``
 - ``📚 Interests: Cybersecurity research, coding, data analysis, reading, video games.``
-<b/>
 
  <!--   
 ### Languages: 
@@ -58,7 +57,7 @@ Hey! I’m Abdulaziz, a Cybersecurity Specialist focused on Threat Intelligence.
 <p align="left">
   <a href="https://www.linkedin.com/in/abdulaziz-almalki-a7539b1ba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a><a href="https://www.x.com/Az_F_F_A" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></picture> </a>
 </p>
-<b/>
+
 
 ![image alt](https://github.com/A-F-F-A/A-F-F-A/blob/7829ca35ceab02b3f6d0f7a67e989e6a442b60a9/Logofoot.svg)
 
