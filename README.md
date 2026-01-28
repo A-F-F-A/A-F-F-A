@@ -7,17 +7,12 @@
   -->
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=500&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
-
 Hey!👋, I am Abdulaziz, Cybersecurity Specialist with a passion for Threat Intelligence, I love analyzing security data, hunting threats, and learning how attackers operate so I can help defend systems better.
 <br/>
-<br/>
-
 - ``🎓 Education: Computer Science graduate``
 - ``🛡️ Skills: log analysis, incident response, malware investigation, python coding  ``
 - ``📚 Interests: Cybersecurity research, coding, data analysis, reading, video games.``
-
 <br/>
-
  <!--   
 ### Languages: 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=500&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
@@ -45,9 +40,7 @@ Hey!👋, I am Abdulaziz, Cybersecurity Specialist with a passion for Threat Int
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>-->
-
 ### Social Media:
-
 <!--
 <p align="left">
   <a href="https://www.linkedin.com/in/abdulaziz-almalki-a7539b1ba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
