@@ -19,7 +19,7 @@
 ### Education:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 - ``🎓 Bachelor of Computer Science (Specialization in Data Science & Machine Learning)``
-- ``🛡️ Cybersecurity Bootcamp – Tuwaiq Academy (SOC Operations & Threat Hunting)``
+- ``🛡️ Cybersecurity Bootcamp – Tuwaiq Academy (Specialization in SOC Operations & Threat Hunting)``
 
  <!--   
 ### Languages: 
