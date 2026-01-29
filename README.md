@@ -53,11 +53,7 @@
 
 ### Skills:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
--  ``🔍 Security Operations & Threat Hunting`` 
-             - ``📊 Security Data Analysis``
-- ``🐍 Programming & Automation`` 
-- ``🧠 Research & Intelligence Skills`` 
-- ``📝 Reporting & Communication``
+``🔍 Security Operations & Threat Hunting`` - ``📊 Security Data Analysis`` - ``🐍 Programming & Automation`` - ``🧠 Research & Intelligence Skills`` - ``📝 Reporting & Communication``
 
 <br/>
 
