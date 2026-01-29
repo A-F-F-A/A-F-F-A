@@ -18,7 +18,7 @@
 
 ### Education:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
-- ``🎓 Education: Computer Science graduate``
+- ``🎓 Bachelor of Computer Science (Specialization in Data Science and Machine Learning)``
 - ``🛡️ Skills: log analysis, incident response, malware investigation, python coding  ``
 - ``📚 Interests: Cybersecurity research, coding, data analysis, reading, video games.``
 
