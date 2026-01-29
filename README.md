@@ -13,7 +13,7 @@
 <div align="center">
   Hey! I’m Abdulaziz, a Cybersecurity Specialist focused on Threat Intelligence. I enjoy analyzing security data, hunting threats, and understanding how attackers think in order to make the internet and digital world safer.
 </div>
-<br/>
+
 <br/>
 
 ### Education:
@@ -48,7 +48,7 @@
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>-->
-<br/>
+
 <br/>
 
 ### Skills:
@@ -58,7 +58,7 @@
 - ``🐍 Programming & Automation`` 
 - ``🧠 Research & Intelligence Skills`` 
 - ``📝 Reporting & Communication``
-<br/>
+
 <br/>
 
 ### Social Media:
