@@ -6,7 +6,6 @@
   <a href="https://github.com/A-F-F-A"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28C3B1&width=275&height=30&lines=Abdulaziz+F.+F.+Almalki" alt="Typing SVG" />
   -->
 </div>
-<br/>
 
 ##
 <div align="center">
