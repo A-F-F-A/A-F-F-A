@@ -14,7 +14,7 @@
 
 <br/>
 
-### Education:
+## Education:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 ``🎓 Bachelor of Computer Science (Specialization in Data Science & Machine Learning)``
 <br/>
@@ -50,13 +50,13 @@
 
 <br/>
 
-### Skills:
+## Skills:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 ``🔍 Security Monitoring & Threat Hunting`` - ``📊 Security Data Analysis`` - ``🤖 Data Science & Machine Learning`` - ``🐍 Programming & Automation`` - ``🧠 Research & Intelligence Skills`` - ``📝 Reporting & Communication``
 
 <br/>
 
-### Social Media:
+## Social Media:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 <!--
 <p align="left">
