@@ -7,9 +7,8 @@
   -->
 </div>
 <br/>
-<br/>
 
-
+##
 <div align="center">
   Hey! I’m Abdulaziz, a Cybersecurity Specialist focused on Threat Intelligence. I enjoy analyzing security data, hunting threats, and understanding how attackers think in order to make the internet and digital world safer.
 </div>
