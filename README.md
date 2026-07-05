@@ -14,6 +14,9 @@
 </div>
 
 <br/>
+<br/>
+<br/>
+
 
 ## Education:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
@@ -48,14 +51,20 @@
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>-->
-
 <br/>
+<br/>
+<br/>
+
 
 ## Skills:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
 ``🔍 Security Monitoring & Threat Hunting`` - ``📊 Security Data Analysis`` - ``🤖 Data Science & Machine Learning`` - ``🐍 Programming & Automation`` - ``🧠 Research & Intelligence Skills`` - ``📝 Reporting & Communication``
 
 <br/>
+<br/>
+<br/>
+
+
 <!--
 ## Social Media:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
@@ -66,8 +75,8 @@
 </p>
 -->
 
-<a href="https://www.linkedin.com/in/abdulaziz-almalki-a7539b1ba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25" height="25" /> </picture> </a><a href="https://www.x.com/Az_F_F_A" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="25" height="25" /></picture> </a>
-##
+
+
 
 
 ![image alt](https://github.com/A-F-F-A/A-F-F-A/blob/11a55d3f4fd529ee3078d10aa4caf11c5c3ed468/Logofoot.svg)
