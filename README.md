@@ -56,10 +56,10 @@
 ``🔍 Security Monitoring & Threat Hunting`` - ``📊 Security Data Analysis`` - ``🤖 Data Science & Machine Learning`` - ``🐍 Programming & Automation`` - ``🧠 Research & Intelligence Skills`` - ``📝 Reporting & Communication``
 
 <br/>
-
+<!--
 ## Social Media:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=28C3B1&width=990&height=15&lines=-+-+-+-------+-+-+----------+-+-+-+------+-+-+----------+-+-+-----+-+-+------------" alt="Typing SVG" /></a>
-<!--
+
 <p align="left">
   <a href="https://www.linkedin.com/in/abdulaziz-almalki-a7539b1ba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
   <a href="https://www.x.com/Az_F_F_A" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
