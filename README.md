@@ -10,7 +10,7 @@
 ##
 
 <div align="center">
-  Hey! I’m Abdulaziz, a Cybersecurity Specialist focused on Threat hunting & Intelligence. I enjoy analyzing security data, hunting threats, and understanding how attackers think in order to make the internet and digital world safer.
+  Hey! I’m Abdulaziz, a Cybersecurity Specialist focused on Threat hunting & Detection. I enjoy analyzing security data, hunting threats, and understanding how attackers think in order to make the internet and digital world safer.
 </div>
 
 <br/>
